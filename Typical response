@@ -1,0 +1,58 @@
+/**/ typeof jQuery321038759016505600163_1499280173258 === 'function' && jQuery321038759016505600163_1499280173258
+(
+{
+"stream":{
+	"_id":25676113904,
+	"game":"StarCraft II",
+	"viewers":552,
+	"video_height":720,
+	"average_fps":60.0100857287,
+	"delay":0,
+	"created_at":"2017-07-05T16:59:39Z",
+	"is_playlist":false,
+	"stream_type":"live",
+	"preview":{"small":"https://static-cdn.jtvnw.net/previews-ttv/live_user_ogamingsc2-80x45.jpg",
+		"medium":"https://static-cdn.jtvnw.net/previews-ttv/live_user_ogamingsc2-320x180.jpg",
+		"large":"https://static-cdn.jtvnw.net/previews-ttv/live_user_ogamingsc2-640x360.jpg",
+		"template":"https://static-cdn.jtvnw.net/previews-ttv/live_user_ogamingsc2-{width}x{height}.jpg"},
+"channel":{
+	"mature":false,"partner":true,"status":"OG6Start#3 - Namshar vs Reynor - Demi finale",
+	"broadcaster_language":"fr",
+	"display_name":"OgamingSC2",
+	"game":"StarCraft II",
+	"language":"en","_id":71852806,
+	"name":"ogamingsc2",
+	"created_at":"2014-09-24T15:06:58Z",
+	"updated_at":"2017-07-05T17:05:38Z",
+	"delay":null,
+	"logo":"https://static-cdn.jtvnw.net/jtv_user_pictures/ogamingsc2-profile_image-9021dccf9399929e-300x300.jpeg",
+	"banner":null,
+	"video_banner":"https://static-cdn.jtvnw.net/jtv_user_pictures/ogamingsc2-channel_offline_image-1570cf4930177aa3-1920x1080.jpeg",
+	"background":null,
+	"profile_banner":"https://static-cdn.jtvnw.net/jtv_user_pictures/ogamingsc2-profile_banner-d418aed2c0ef7d35-480.jpeg",
+	"profile_banner_background_color":"",
+	"url":"https://www.twitch.tv/ogamingsc2",
+	"views":26689096,
+	"followers":48732,
+	"_links":{
+		"self":"https://api.twitch.tv/kraken/channels/ogamingsc2",
+		"follows":"https://api.twitch.tv/kraken/channels/ogamingsc2/follows",
+		"commercial":"https://api.twitch.tv/kraken/channels/ogamingsc2/commercial",
+		"stream_key":"https://api.twitch.tv/kraken/channels/ogamingsc2/stream_key",
+		"chat":"https://api.twitch.tv/kraken/chat/ogamingsc2",
+		"features":"https://api.twitch.tv/kraken/channels/ogamingsc2/features",
+		"subscriptions":"https://api.twitch.tv/kraken/channels/ogamingsc2/subscriptions",
+		"editors":"https://api.twitch.tv/kraken/channels/ogamingsc2/editors",
+		"teams":"https://api.twitch.tv/kraken/channels/ogamingsc2/teams",
+		"videos":"https://api.twitch.tv/kraken/channels/ogamingsc2/videos"
+	}
+},
+"_links":{
+	"self":"https://api.twitch.tv/kraken/streams/ogamingsc2"}
+},
+
+"_links":{
+	"self":"https://api.twitch.tv/kraken/streams/OgamingSC2",
+	"channel":"https://api.twitch.tv/kraken/channels/OgamingSC2"}
+}
+);
