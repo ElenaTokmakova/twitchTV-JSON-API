@@ -14,7 +14,7 @@ $(document).ready(function() {
               dataType: "jsonp",              
               success: function(data) {
                 //console.log(data);                 
-                logo = "http://elenatokmakova.com/wp-content/uploads/2017/07/twitch-tv-icon.png"; 
+                logo = "../img/twitch-tv-icon.png"; 
                 url = "https://www.twitch.tv/" + channel;
 
                 if (data.stream === null) {
