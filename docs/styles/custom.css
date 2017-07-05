@@ -86,6 +86,10 @@ h1, h2, h3 {
           height: 50px;          
         }
 
+.content-container .tab-content ul li i {
+          font-size: 3em;
+        }
+
 .content-container .tab-content ul li .row {
           display: -webkit-box;
           display: -ms-flexbox;

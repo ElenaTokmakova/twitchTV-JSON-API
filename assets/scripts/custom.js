@@ -14,12 +14,12 @@ $(document).ready(function() {
               dataType: "jsonp",              
               success: function(data) {
                 //console.log(data);                 
-                logo = "../img/twitch-tv-icon.png"; 
+                logo = '<i class="fa fa-twitch" aria-hidden="true"></i>'; 
                 url = "https://www.twitch.tv/" + channel;
 
                 if (data.stream === null) {
 
-                    currentChannel = '<li class="twitchChannel" id="' + channel +'"><div class="row"><div class="col-xs-4"><img src="' + logo + '"></div><div class="col-xs-4"><strong><a href="' + url + '" target="_blank">' + channel + '</a></div><div class="col-xs-4"></strong>The user if offline</div></div></li>';                  
+                    currentChannel = '<li class="twitchChannel" id="' + channel +'"><div class="row"><div class="col-xs-4">' + logo + '</div><div class="col-xs-4"><strong><a href="' + url + '" target="_blank">' + channel + '</a></div><div class="col-xs-4"></strong>The user if offline</div></div></li>';                  
                     $(currentChannel).addClass("bg-danger").appendTo("#offline-ul, #all-ul");                   
                 }
                 else if (data.stream === undefined) {
