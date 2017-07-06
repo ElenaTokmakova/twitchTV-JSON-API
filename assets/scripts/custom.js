@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 
-    var channels = ["freecodecamp","test_channel","ESL_SC2", "OgamingSC2", "cretetion", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas", "comster404", "clickerheroesbot", "brunofin", "medryBW", "terakilobyte", "thomasballinger", "quill18", "beohoff", "asoulji", "algo_rhythm", "deadline_ninja", "2dgamedev", "zephyrdev", "programmingarchon","devwars","jggames01","morphcat","rockerboo","krzjn","doubletacostreams","dbauchdsloth","mar3k_e3"];
+    var channels = ["freecodecamp","test_channel","ESL_SC2", "OgamingSC2", "cretetion", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas", "comster404", "brunofin", "medryBW", "terakilobyte", "quill18", "beohoff", "asoulji", "algo_rhythm", "deadline_ninja", "2dgamedev", "zephyrdev", "devwars","jggames01","morphcat","rockerboo","krzjn","dbauchdsloth","mar3k_e3"];
     var currentChannel, game, logo, url;
 
     channels.forEach(function(channel){
